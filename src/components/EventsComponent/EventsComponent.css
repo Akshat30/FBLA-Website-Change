@@ -1,0 +1,22 @@
+.calendarFontTitle {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.calendarFontDescription {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 36px;
+    color: #ffffff;
+    padding-left:1px
+}
+
+.calendarHeader {
+    left: 235px;
+    position: relative;
+    top: 85px;
+    z-index: 999;
+    
+}

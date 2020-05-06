@@ -1,0 +1,115 @@
+@Accounting I@1@Individual@1
+@Accounting II@1@Individual@2
+@American Enterprise@0@Chapter@3
+@Banking &amp; Financial Systems@0@Team@4
+@Business Calculations@1@Individual@5
+@Business Communication@1@Individual@6
+@Business Ethics@0@Team@7
+@Business Law@1@Individual@8
+@Business Math@1@Individual@9
+@Business Plan@1@Individual or Team@10
+@Business Procedures@1@Individual@11
+@C++ Programming@0@Individual@12
+@Community Service@0@Chapter@13
+@Computer Applications@1@Individual@14
+@Computer Concepts@1@Individual@15
+@Creed Contest@1@Chapter@16
+@Desktop Publishing@0@Team@17
+@Economics@1@Individual@18
+@Emerging Business Issues@0@Team@19
+@Entrepreneurship@1@Team@20
+@FBLA Principles &amp; Procedures@1@Individual@21
+@Future Business Leader@1@Individual@22
+@Impromptu Speaking@0@Individual@23
+@International Business@0@Individual@24
+@Introduction to Business@1@Individual@25
+@Introduction to Business Communication@0@Individual@26
+@Introduction to Parliamentary Procedure@0@Individual@27
+@Java Programming@0@Individual@28
+@Job Interview@1@Individual@29
+@Marketing@1@Team@30
+@Multimedia Presentation@0@Individual or Team@31
+@Network Design@0@Team@32
+@Networking Concepts@0@Individual@33
+@Parliamentary Procedure@1@Team@34
+@Partnership with Business@0@Chapter@35
+@Public Speaking @1@Individual@36
+@Public Speaking II@1@Individual@37
+@Technology Concepts@1@Individual@38
+@Visual Basic Programming@0@Individual@39
+@Website Design@0@Individual or Team@40
+@Word Processing I@1@Individual@41
+@Word Processing II@1@Individual@42
+@Business Financial Plan@1@Individual or Team@43
+@Business Presentation@0@Individual or Team@44
+@Computer Problem Solving@1@Individual@45
+@Cyber Security@1@Individual@46
+@Database Design &amp; Applications@1@Individual@47
+@Desktop Application Programming@1@Individual@48
+@Digital Video Production@0@Individual or Team@49
+@E-Business@1@Individual or Team@50
+@Global Business@1@Team@51
+@Internet Application Programming@1@Individual@52
+@Introduction to Technology Concepts@1@Individual@53
+@Management Decision Making@1@Team@54
+@Personal Finance@1@Individual@55
+@Spreadsheet Applications@1@Individual@56
+@Electronic Career Portfolio@1@Individual@57
+@Local Chapter Annual Business Report@0@Chapter@58
+@Sweepstakes@0@Chapter@59
+@Dr. Jessie Graham Award@0@Individual@60
+@L. Byram Bates $1000 Scholarship@0@Individual@61
+@Advertising@0@Open@62
+@Insurance Operations@0@Open@63
+@Leadership@0@Open@64
+@Chapter Website@0@Chapter@65
+@Job Description Manual@1@Individual@66
+@Machine Transcription@1@Individual@67
+@Scholarship@0@Individual@68
+@Speed Typing@0@Open@69
+@State Chapter Annual Business Report@0@State@70
+@Information Processing Concepts@1@Individual@71
+@Keyboarding Applications@1@Individual@72
+@Chapter Contribution Award@0@Chapter@73
+@Name Tag@0@Individual@74
+@Battle of the Chapters@0@Chapter@75
+@Digital Design and Promotion@0@Individual or Team@80
+@Management Information Systems@0@Individual or Team@76
+@Sports Management@1@Individual or Team @77
+@Client Service@1@Individual @78
+@Computer Game &amp; Simulation Programming@1@Individual @79
+@Open: Google Apps/Open Source@0@Open@84
+@Health Care Administration@1@Individual@83
+@Help Desk@0@Individual@82
+@Hospitality Management@1@Individual@81
+@Agribusiness@1@Individual@85
+@Mobile Application Development@0@Team@86
+@Insurance &amp; Risk Management@1@Individual@87
+@Introduction to Information Technology@1@Individual@88
+@Sports &amp; Entertainment Management@1@Team@89
+@Word Processing@1@Individual@90
+@Securities &amp; Investments@1@Individual@91
+@3D Animation@0@Team@92
+@Social Media Campaign@0@Team@93
+@Sales Presentation@0@Individual@94
+@Lifesmarts@0@Team@95
+@Graphic Design@0@Team@96
+@Introduction to Business Presentation@0@Team@97
+@Introduction to Business Procedures@1@Individual@98
+@Introduction to Financial Math@1@Individual@99
+@Publication Design@0@Team@100
+@Coding &amp; Programming@0@Individual@101
+@slc2017.csv@0@Individual@102
+@Broadcast Journalism@1@Team@103
+@Coding &amp; Programming@0@Individual@104
+@Introduction to Public Speaking@1@Individual@105
+@Mobile Application Developement@0@Team@106
+@Organizational Leadership@0@Individual@107
+@Creed@1@Individual@108
+@Introduction to FBLA@1@Individual@109
+@Coding and Programming@0@Team@110
+@slc2019.csv@0@Individual@111
+@slc2019.csv@0@Individual@112
+@slc2019.csv@0@Individual@113
+@slc2019.csv@0@Individual@114
+@Journalism@1@Individual@115
